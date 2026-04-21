@@ -1,2 +1,2 @@
 # Basel_III_-CRR3-CRD6-_RWA_Design_-_Regulatory_Reporting
-Basel III (CRR3): RWA &amp; Regulatory Reporting
+This project implements a Risk Weighted Assets (RWA) calculation framework based on Basel III (CRR3) regulation using both Standardized and IRB approaches. It develops key credit risk indicators (EAD, PD, LGD, Expected Loss), computes CET1 capital ratio, and assesses regulatory capital adequacy. The project also integrates the Output Floor (72.5%) to evaluate its impact on total RWA and capital requirements.
